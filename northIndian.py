@@ -6,20 +6,13 @@ from selenium import webdriver
 import requests
 import os
 
-
 app=Flask(__name__)
 basedir=os.path.abspath(os.path.dirname(__file__))
-app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///'+os.path.join(basedir, 'north.sqlite')
+app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///'+os.path.join(basedir, 'pune.sqlite')
 db=SQLAlchemy(app)
 ma=Marshmallow(app)
 
-
-
-@app.route('/')
-def home():
-    return 'FOod khaalo'
-
-class Deserts(db.Model):
+class north_indian(db.Model):
     rId=db.Column(db.Integer, primary_key=True)
     rName=db.Column(db.String(10), nullable=False)
     rLat= db.Column(db.Float, nullable=False)
@@ -71,23 +64,21 @@ def homepage():
                 st=st+i
         items=st
         browser.close()
-        new_food=Deserts(name,lat,lng,address,cost,rating,items,url)
+        new_food=north_indian(name,lat,lng,address,cost,rating,items,url)
         db.session.add(new_food)
         db.session.commit()
     return "Add ho gaya sb"
 
-class StreetFoodSchema(ma.Schema):
+class NorthIndianSchema(ma.Schema):
     class Meta:
         fields=('rId','rName','rLat','rLong','rAddress','rCost','rRating','rItems','rUrl')
 
-streetFood_schema=StreetFoodSchema()
-streetFoods_schema=StreetFoodSchema(many=True)
+northIndian_schema=NorthIndianSchema()
+northIndians_schema=NorthIndianSchema(many=True)
 
-#https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start=20&cuisines=90&sort=cost&order=asc
-@app.route("/deserts", methods=["GET"])
-def get_user():
-    all_users = Deserts.query.all()
-    result =streetFoods_schema.dump(all_users)
+def get_north_indian():
+    all_users = north_indian.query.all()
+    result =northIndians_schema.dump(all_users)
     return jsonify(result.data)
 
 

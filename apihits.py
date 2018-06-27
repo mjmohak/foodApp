@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 
+from northIndian import get_north_indian
 from southIndian import get_south_indian
 from streetfood import get_street_food
 from chinese import get_chinese
@@ -34,6 +35,10 @@ def GetChineses():
 @app.route("/api/southindian", methods=["GET"])
 def GetSouthIndians():
     return get_south_indian()
+
+@app.route("/api/northindian", methods=["GET"])
+def GetNorthIndians():
+    return get_north_indian()
 
 if __name__ == "__main__":
     app.run(debug=True)
