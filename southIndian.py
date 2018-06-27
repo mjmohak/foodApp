@@ -1,8 +1,9 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from bs4 import BeautifulSoup
 from selenium import webdriver
+
 import requests
 import os
 
@@ -14,9 +15,9 @@ ma=Marshmallow(app)
 
 @app.route('/')
 def home():
-    return 'Food khaalo'
+    return 'FOod khaalo'
 
-class deserts(db.Model):
+class south_indian(db.Model):
     rId=db.Column(db.Integer, primary_key=True)
     rName=db.Column(db.String(10), nullable=False)
     rLat= db.Column(db.Float, nullable=False)
@@ -37,26 +38,26 @@ class deserts(db.Model):
         self.rItems=rItems
         self.rUrl=rUrl
 
-
-class DesertSchema(ma.Schema):
+class SouthIndianSchema(ma.Schema):
     class Meta:
         fields=('rId','rName','rLat','rLong','rAddress','rCost','rRating','rItems','rUrl')
 
-desert_schema=DesertSchema()
-deserts_schema=DesertSchema(many=True)
+southIndian_schema=SouthIndianSchema()
+southIndians_schema=SouthIndianSchema(many=True)
+
 
 @app.route('/food')
 def homepage():
     params = {'user-key': 'b4072fa4fc94bd77ebd31709d42ae167'}
     cnt=0
-    r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=100&sort=cost&order=asc'.format(cnt),headers=params)
+    r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=85'.format(cnt),headers=params)
     obj=r.json()
     total=obj["results_found"]
 
     for i in range(0,min(100,total)):
         if(i!=0 and i%20==0):
             cnt=cnt+20
-            r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=100&sort=cost&order=asc'.format(cnt),headers=params)
+            r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=55&sort=cost&order=asc'.format(cnt),headers=params)
             obj=r.json()
         name=obj["restaurants"][i-cnt]["restaurant"]["name"]
         url=obj["restaurants"][i-cnt]["restaurant"]["url"]
@@ -76,16 +77,16 @@ def homepage():
                 st=st+i
         items=st
         browser.close()
-        new_food=Deserts(name,lat,lng,address,cost,rating,items,url)
+        new_food=south_indian(name,lat,lng,address,cost,rating,items,url)
         db.session.add(new_food)
         db.session.commit()
     return "Add ho gaya sb"
 
-@app.route('/api/deserts')
-def get_deserts():
-    all_products= deserts.query.all()
-    result= deserts_schema.dump(all_products)
+@app.route("/api/southindian", methods=["GET"])
+def get_south_indian():
+    all_products= south_indian.query.all()
+    result= southIndians_schema.dump(all_products)
     return jsonify(result.data)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0',port=5001,debug=True)

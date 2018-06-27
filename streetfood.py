@@ -3,6 +3,9 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from bs4 import BeautifulSoup
 from selenium import webdriver
+
+from chinese import get_chinese
+from desert import get_deserts
 import requests
 import os
 
@@ -14,9 +17,9 @@ ma=Marshmallow(app)
 
 @app.route('/')
 def home():
-    return 'Food khaalo'
+    return 'FOod khaalo'
 
-class Chinese(db.Model):
+class street_food(db.Model):
     rId=db.Column(db.Integer, primary_key=True)
     rName=db.Column(db.String(10), nullable=False)
     rLat= db.Column(db.Float, nullable=False)
@@ -37,18 +40,26 @@ class Chinese(db.Model):
         self.rItems=rItems
         self.rUrl=rUrl
 
+class StreetFoodSchema(ma.Schema):
+    class Meta:
+        fields=('rId','rName','rLat','rLong','rAddress','rCost','rRating','rItems','rUrl')
+
+streetFood_schema=StreetFoodSchema()
+streetFoods_schema=StreetFoodSchema(many=True)
+
+
 @app.route('/food')
 def homepage():
     params = {'user-key': 'b4072fa4fc94bd77ebd31709d42ae167'}
     cnt=0
-    r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=25&sort=cost&order=asc'.format(cnt),headers=params)
+    r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=55&sort=cost&order=asc'.format(cnt),headers=params)
     obj=r.json()
     total=obj["results_found"]
 
     for i in range(0,min(100,total)):
         if(i!=0 and i%20==0):
             cnt=cnt+20
-            r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=25&sort=cost&order=asc'.format(cnt),headers=params)
+            r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start={}&cuisines=55&sort=cost&order=asc'.format(cnt),headers=params)
             obj=r.json()
         name=obj["restaurants"][i-cnt]["restaurant"]["name"]
         url=obj["restaurants"][i-cnt]["restaurant"]["url"]
@@ -68,20 +79,16 @@ def homepage():
                 st=st+i
         items=st
         browser.close()
-        new_food=Chinese(name,lat,lng,address,cost,rating,items,url)
+        new_food=Italian(name,lat,lng,address,cost,rating,items,url)
         db.session.add(new_food)
         db.session.commit()
     return "Add ho gaya sb"
 
-# class StreetFoodSchema(ma.Schema):
-#     class Meta:
-#         fields=('rId','rName','rLat','rLong','rAddress','rCost','rRating','rItems','rUrl')
-#
-# streetFood_schema=StreeFoodSchema()
-# streetFoods_schema=StreetFoodSchema(many=True)
-
-#https://developers.zomato.com/api/v2.1/search?entity_id=5&entity_type=city&start=20&cuisines=90&sort=cost&order=asc
-
+@app.route("/api/streetfoods", methods=["GET"])
+def get_street_food():
+    all_products= street_food.query.all()
+    result= streetFoods_schema.dump(all_products)
+    return jsonify(result.data)
 
 if __name__ == "__main__":
     app.run(debug=True)

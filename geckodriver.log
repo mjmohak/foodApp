@@ -1,0 +1,586 @@
+1530110858952	geckodriver	INFO	geckodriver 0.18.0
+1530110858979	geckodriver	INFO	Listening on 127.0.0.1:44195
+1530110860273	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530110939909	geckodriver	INFO	geckodriver 0.18.0
+1530110939915	geckodriver	INFO	Listening on 127.0.0.1:33797
+1530110941123	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530110947620	Marionette	INFO	Listening on port 42293
+1530110947723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111030955	geckodriver	INFO	geckodriver 0.18.0
+1530111030961	geckodriver	INFO	Listening on 127.0.0.1:42669
+1530111032172	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111037299	Marionette	INFO	Listening on port 42295
+1530111037415	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9235, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111050554	geckodriver	INFO	geckodriver 0.18.0
+1530111050562	geckodriver	INFO	Listening on 127.0.0.1:60565
+1530111051774	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111092608	geckodriver	INFO	geckodriver 0.18.0
+1530111092613	geckodriver	INFO	Listening on 127.0.0.1:33583
+1530111093822	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111099397	Marionette	INFO	Listening on port 41869
+1530111099451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111137110	geckodriver	INFO	geckodriver 0.18.0
+1530111137122	geckodriver	INFO	Listening on 127.0.0.1:46371
+1530111138355	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111144914	Marionette	INFO	Listening on port 43555
+1530111145011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111159090	geckodriver	INFO	geckodriver 0.18.0
+1530111159100	geckodriver	INFO	Listening on 127.0.0.1:34475
+1530111160302	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111164937	Marionette	INFO	Listening on port 40483
+1530111165025	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9824, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111181780	geckodriver	INFO	geckodriver 0.18.0
+1530111181796	geckodriver	INFO	Listening on 127.0.0.1:59927
+1530111182994	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111187792	Marionette	INFO	Listening on port 33395
+1530111187839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111201308	geckodriver	INFO	geckodriver 0.18.0
+1530111201323	geckodriver	INFO	Listening on 127.0.0.1:38911
+1530111202510	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111208722	Marionette	INFO	Listening on port 34731
+1530111208746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111223441	geckodriver	INFO	geckodriver 0.18.0
+1530111223451	geckodriver	INFO	Listening on 127.0.0.1:41199
+1530111224659	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111229943	Marionette	INFO	Listening on port 39455
+1530111229988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111252626	geckodriver	INFO	geckodriver 0.18.0
+1530111252639	geckodriver	INFO	Listening on 127.0.0.1:37383
+1530111253890	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111259293	Marionette	INFO	Listening on port 39125
+1530111259349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111280510	geckodriver	INFO	geckodriver 0.18.0
+1530111280529	geckodriver	INFO	Listening on 127.0.0.1:33533
+1530111281725	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111288239	Marionette	INFO	Listening on port 44591
+1530111288274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111305754	geckodriver	INFO	geckodriver 0.18.0
+1530111305772	geckodriver	INFO	Listening on 127.0.0.1:39607
+1530111307172	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111313899	Marionette	INFO	Listening on port 44047
+1530111314003	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10886, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10886, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111334002	geckodriver	INFO	geckodriver 0.18.0
+1530111334018	geckodriver	INFO	Listening on 127.0.0.1:38955
+1530111335218	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111342499	Marionette	INFO	Listening on port 33577
+1530111342566	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11052, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111361821	geckodriver	INFO	geckodriver 0.18.0
+1530111361845	geckodriver	INFO	Listening on 127.0.0.1:53869
+1530111363035	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111370269	Marionette	INFO	Listening on port 36059
+1530111370366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111379824	geckodriver	INFO	geckodriver 0.18.0
+1530111379835	geckodriver	INFO	Listening on 127.0.0.1:37493
+1530111381036	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111386209	Marionette	INFO	Listening on port 34605
+1530111386271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111409990	geckodriver	INFO	geckodriver 0.18.0
+1530111410012	geckodriver	INFO	Listening on 127.0.0.1:37673
+1530111411215	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111416801	Marionette	INFO	Listening on port 38829
+1530111416841	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11544, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111445266	geckodriver	INFO	geckodriver 0.18.0
+1530111445277	geckodriver	INFO	Listening on 127.0.0.1:59473
+1530111446485	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111453250	Marionette	INFO	Listening on port 40141
+1530111453315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111465596	geckodriver	INFO	geckodriver 0.18.0
+1530111465606	geckodriver	INFO	Listening on 127.0.0.1:32957
+1530111466804	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111474304	Marionette	INFO	Listening on port 33325
+1530111474341	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11900, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11900, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111490215	geckodriver	INFO	geckodriver 0.18.0
+1530111490226	geckodriver	INFO	Listening on 127.0.0.1:39659
+1530111491431	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111503970	Marionette	INFO	Listening on port 40713
+1530111503994	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12072, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12072, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111522650	geckodriver	INFO	geckodriver 0.18.0
+1530111522659	geckodriver	INFO	Listening on 127.0.0.1:49911
+1530111523865	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111529760	Marionette	INFO	Listening on port 37093
+1530111529813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111539487	geckodriver	INFO	geckodriver 0.18.0
+1530111539504	geckodriver	INFO	Listening on 127.0.0.1:41115
+1530111540701	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111548054	Marionette	INFO	Listening on port 43019
+1530111548135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111564507	geckodriver	INFO	geckodriver 0.18.0
+1530111564518	geckodriver	INFO	Listening on 127.0.0.1:37795
+1530111565721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111570826	Marionette	INFO	Listening on port 32805
+1530111570850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111585605	geckodriver	INFO	geckodriver 0.18.0
+1530111585616	geckodriver	INFO	Listening on 127.0.0.1:47773
+1530111587017	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111592549	Marionette	INFO	Listening on port 37745
+1530111592648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111612426	geckodriver	INFO	geckodriver 0.18.0
+1530111612437	geckodriver	INFO	Listening on 127.0.0.1:53699
+1530111613637	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111618877	Marionette	INFO	Listening on port 45005
+1530111618960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111643215	geckodriver	INFO	geckodriver 0.18.0
+1530111643227	geckodriver	INFO	Listening on 127.0.0.1:59461
+1530111644423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111650265	Marionette	INFO	Listening on port 34427
+1530111650357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111669303	geckodriver	INFO	geckodriver 0.18.0
+1530111669313	geckodriver	INFO	Listening on 127.0.0.1:39249
+1530111670520	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111675632	Marionette	INFO	Listening on port 43065
+1530111675668	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13235, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13235, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111697169	geckodriver	INFO	geckodriver 0.18.0
+1530111697175	geckodriver	INFO	Listening on 127.0.0.1:55217
+1530111698389	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111703470	Marionette	INFO	Listening on port 38049
+1530111703523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111737191	geckodriver	INFO	geckodriver 0.18.0
+1530111737200	geckodriver	INFO	Listening on 127.0.0.1:50039
+1530111738410	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111744428	Marionette	INFO	Listening on port 41443
+1530111744465	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13586, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111759221	geckodriver	INFO	geckodriver 0.18.0
+1530111759229	geckodriver	INFO	Listening on 127.0.0.1:46473
+1530111760436	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111765121	Marionette	INFO	Listening on port 43881
+1530111765162	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13754, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13754, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13754, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111779978	geckodriver	INFO	geckodriver 0.18.0
+1530111779988	geckodriver	INFO	Listening on 127.0.0.1:49351
+1530111781192	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111785844	Marionette	INFO	Listening on port 38485
+1530111785914	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13910, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111800637	geckodriver	INFO	geckodriver 0.18.0
+1530111800647	geckodriver	INFO	Listening on 127.0.0.1:44485
+1530111802040	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111809763	Marionette	INFO	Listening on port 40719
+1530111809792	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14073, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111826140	geckodriver	INFO	geckodriver 0.18.0
+1530111826151	geckodriver	INFO	Listening on 127.0.0.1:58291
+1530111827366	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111833813	Marionette	INFO	Listening on port 46015
+1530111833897	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14236, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111856008	geckodriver	INFO	geckodriver 0.18.0
+1530111856016	geckodriver	INFO	Listening on 127.0.0.1:46843
+1530111857224	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111864464	Marionette	INFO	Listening on port 37217
+1530111864581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530111875403	geckodriver	INFO	geckodriver 0.18.0
+1530111875414	geckodriver	INFO	Listening on 127.0.0.1:37415
+1530111876616	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111884909	Marionette	INFO	Listening on port 46091
+1530111884955	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14566, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111904223	geckodriver	INFO	geckodriver 0.18.0
+1530111904235	geckodriver	INFO	Listening on 127.0.0.1:53329
+1530111905626	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111914351	Marionette	INFO	Listening on port 37295
+1530111914381	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14724, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111929514	geckodriver	INFO	geckodriver 0.18.0
+1530111929526	geckodriver	INFO	Listening on 127.0.0.1:42483
+1530111930736	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111937053	Marionette	INFO	Listening on port 38927
+1530111937074	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14886, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111962437	geckodriver	INFO	geckodriver 0.18.0
+1530111962464	geckodriver	INFO	Listening on 127.0.0.1:47153
+1530111963659	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111969443	Marionette	INFO	Listening on port 41697
+1530111969492	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15056, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530111985258	geckodriver	INFO	geckodriver 0.18.0
+1530111985277	geckodriver	INFO	Listening on 127.0.0.1:56809
+1530111986470	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530111992325	Marionette	INFO	Listening on port 37853
+1530111992398	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15218, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15218, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112011042	geckodriver	INFO	geckodriver 0.18.0
+1530112011053	geckodriver	INFO	Listening on 127.0.0.1:54533
+1530112012252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112017465	Marionette	INFO	Listening on port 43041
+1530112017498	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15386, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112038148	geckodriver	INFO	geckodriver 0.18.0
+1530112038158	geckodriver	INFO	Listening on 127.0.0.1:55839
+1530112039356	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112046311	Marionette	INFO	Listening on port 33743
+1530112046387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112060230	geckodriver	INFO	geckodriver 0.18.0
+1530112060238	geckodriver	INFO	Listening on 127.0.0.1:54619
+1530112061448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112066013	Marionette	INFO	Listening on port 45785
+1530112066070	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15717, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112082541	geckodriver	INFO	geckodriver 0.18.0
+1530112082564	geckodriver	INFO	Listening on 127.0.0.1:37471
+1530112083754	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112089825	Marionette	INFO	Listening on port 43341
+1530112089905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112109588	geckodriver	INFO	geckodriver 0.18.0
+1530112109602	geckodriver	INFO	Listening on 127.0.0.1:51909
+1530112110801	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112115715	Marionette	INFO	Listening on port 44051
+1530112115732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112130649	geckodriver	INFO	geckodriver 0.18.0
+1530112130656	geckodriver	INFO	Listening on 127.0.0.1:42249
+1530112131866	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112138207	Marionette	INFO	Listening on port 37523
+1530112138300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112154103	geckodriver	INFO	geckodriver 0.18.0
+1530112154139	geckodriver	INFO	Listening on 127.0.0.1:51007
+1530112155505	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112163882	Marionette	INFO	Listening on port 33309
+1530112163944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112183164	geckodriver	INFO	geckodriver 0.18.0
+1530112183174	geckodriver	INFO	Listening on 127.0.0.1:60645
+1530112184369	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112192921	Marionette	INFO	Listening on port 44707
+1530112193007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112211978	geckodriver	INFO	geckodriver 0.18.0
+1530112211985	geckodriver	INFO	Listening on 127.0.0.1:55713
+1530112213190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112222339	Marionette	INFO	Listening on port 37745
+1530112222440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112241300	geckodriver	INFO	geckodriver 0.18.0
+1530112241318	geckodriver	INFO	Listening on 127.0.0.1:50887
+1530112242515	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112250050	Marionette	INFO	Listening on port 45221
+1530112250146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112264037	geckodriver	INFO	geckodriver 0.18.0
+1530112264075	geckodriver	INFO	Listening on 127.0.0.1:37443
+1530112265251	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112271236	Marionette	INFO	Listening on port 35507
+1530112271298	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17048, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112286495	geckodriver	INFO	geckodriver 0.18.0
+1530112286513	geckodriver	INFO	Listening on 127.0.0.1:36549
+1530112287922	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112295552	Marionette	INFO	Listening on port 39813
+1530112295664	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17211, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17211, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112308489	geckodriver	INFO	geckodriver 0.18.0
+1530112308515	geckodriver	INFO	Listening on 127.0.0.1:60795
+1530112309706	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112317647	Marionette	INFO	Listening on port 46017
+1530112317737	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17383, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112339172	geckodriver	INFO	geckodriver 0.18.0
+1530112339182	geckodriver	INFO	Listening on 127.0.0.1:35431
+1530112340399	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112348287	Marionette	INFO	Listening on port 38099
+1530112348334	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17545, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112361646	geckodriver	INFO	geckodriver 0.18.0
+1530112361659	geckodriver	INFO	Listening on 127.0.0.1:54249
+1530112362858	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112370534	Marionette	INFO	Listening on port 39753
+1530112370599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112390664	geckodriver	INFO	geckodriver 0.18.0
+1530112390676	geckodriver	INFO	Listening on 127.0.0.1:38057
+1530112391877	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112397254	Marionette	INFO	Listening on port 46635
+1530112397311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112413181	geckodriver	INFO	geckodriver 0.18.0
+1530112413193	geckodriver	INFO	Listening on 127.0.0.1:48459
+1530112414391	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112421242	Marionette	INFO	Listening on port 37577
+1530112421334	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18037, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112433848	geckodriver	INFO	geckodriver 0.18.0
+1530112433854	geckodriver	INFO	Listening on 127.0.0.1:44147
+1530112435069	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112442104	Marionette	INFO	Listening on port 37317
+1530112442211	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18237, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112460953	geckodriver	INFO	geckodriver 0.18.0
+1530112460988	geckodriver	INFO	Listening on 127.0.0.1:45747
+1530112462171	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112469201	Marionette	INFO	Listening on port 44219
+1530112469308	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18370, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18370, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112482495	geckodriver	INFO	geckodriver 0.18.0
+1530112482501	geckodriver	INFO	Listening on 127.0.0.1:49913
+1530112483720	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112489506	Marionette	INFO	Listening on port 35901
+1530112489545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112517221	geckodriver	INFO	geckodriver 0.18.0
+1530112517236	geckodriver	INFO	Listening on 127.0.0.1:38431
+1530112518443	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112523894	Marionette	INFO	Listening on port 41765
+1530112523992	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18712, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18712, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112542820	geckodriver	INFO	geckodriver 0.18.0
+1530112542830	geckodriver	INFO	Listening on 127.0.0.1:50305
+1530112544030	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112550385	Marionette	INFO	Listening on port 44413
+1530112550462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112563006	geckodriver	INFO	geckodriver 0.18.0
+1530112563026	geckodriver	INFO	Listening on 127.0.0.1:55253
+1530112564421	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112569724	Marionette	INFO	Listening on port 41259
+1530112569755	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19044, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19044, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19044, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112584761	geckodriver	INFO	geckodriver 0.18.0
+1530112584776	geckodriver	INFO	Listening on 127.0.0.1:59959
+1530112585976	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112592923	Marionette	INFO	Listening on port 34593
+1530112593029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112605923	geckodriver	INFO	geckodriver 0.18.0
+1530112605966	geckodriver	INFO	Listening on 127.0.0.1:46341
+1530112607339	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112612958	Marionette	INFO	Listening on port 40543
+1530112612982	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19367, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19367, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19367, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112630724	geckodriver	INFO	geckodriver 0.18.0
+1530112630731	geckodriver	INFO	Listening on 127.0.0.1:37257
+1530112631938	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112637307	Marionette	INFO	Listening on port 37443
+1530112637371	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19529, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112660558	geckodriver	INFO	geckodriver 0.18.0
+1530112660572	geckodriver	INFO	Listening on 127.0.0.1:52053
+1530112661770	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112667820	Marionette	INFO	Listening on port 34341
+1530112667905	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19706, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112693682	geckodriver	INFO	geckodriver 0.18.0
+1530112693695	geckodriver	INFO	Listening on 127.0.0.1:45917
+1530112694896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112699812	Marionette	INFO	Listening on port 42823
+1530112699843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112718585	geckodriver	INFO	geckodriver 0.18.0
+1530112718598	geckodriver	INFO	Listening on 127.0.0.1:40921
+1530112719810	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112724851	Marionette	INFO	Listening on port 44895
+1530112724934	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20062, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1530112743252	geckodriver	INFO	geckodriver 0.18.0
+1530112743258	geckodriver	INFO	Listening on 127.0.0.1:51043
+1530112744473	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112750486	Marionette	INFO	Listening on port 34733
+1530112750513	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20228, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20228, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112773530	geckodriver	INFO	geckodriver 0.18.0
+1530112773540	geckodriver	INFO	Listening on 127.0.0.1:60009
+1530112774750	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112781267	Marionette	INFO	Listening on port 42107
+1530112781285	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20397, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112797940	geckodriver	INFO	geckodriver 0.18.0
+1530112797972	geckodriver	INFO	Listening on 127.0.0.1:34699
+1530112799339	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112808238	Marionette	INFO	Listening on port 41859
+1530112808288	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20561, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112827488	geckodriver	INFO	geckodriver 0.18.0
+1530112827502	geckodriver	INFO	Listening on 127.0.0.1:40397
+1530112828702	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112835767	Marionette	INFO	Listening on port 45677
+1530112835836	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20724, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112852342	geckodriver	INFO	geckodriver 0.18.0
+1530112852353	geckodriver	INFO	Listening on 127.0.0.1:34927
+1530112853557	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112858910	Marionette	INFO	Listening on port 45589
+1530112858981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112871818	geckodriver	INFO	geckodriver 0.18.0
+1530112871830	geckodriver	INFO	Listening on 127.0.0.1:36559
+1530112873229	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112880738	Marionette	INFO	Listening on port 36003
+1530112880783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112896619	geckodriver	INFO	geckodriver 0.18.0
+1530112896628	geckodriver	INFO	Listening on 127.0.0.1:48699
+1530112897831	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112903993	Marionette	INFO	Listening on port 36993
+1530112904063	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21208, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112926531	geckodriver	INFO	geckodriver 0.18.0
+1530112926540	geckodriver	INFO	Listening on 127.0.0.1:50213
+1530112927943	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112936681	Marionette	INFO	Listening on port 39701
+1530112936703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530112963762	geckodriver	INFO	geckodriver 0.18.0
+1530112963769	geckodriver	INFO	Listening on 127.0.0.1:47737
+1530112964975	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112972001	Marionette	INFO	Listening on port 43201
+1530112972134	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21543, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530112988719	geckodriver	INFO	geckodriver 0.18.0
+1530112988725	geckodriver	INFO	Listening on 127.0.0.1:42771
+1530112989929	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530112998318	Marionette	INFO	Listening on port 35077
+1530112998374	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21700, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113020882	geckodriver	INFO	geckodriver 0.18.0
+1530113020890	geckodriver	INFO	Listening on 127.0.0.1:52639
+1530113022091	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113028794	Marionette	INFO	Listening on port 43177
+1530113028827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113042404	geckodriver	INFO	geckodriver 0.18.0
+1530113042410	geckodriver	INFO	Listening on 127.0.0.1:52271
+1530113043617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113049202	Marionette	INFO	Listening on port 39655
+1530113049257	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22031, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22031, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22031, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113071802	geckodriver	INFO	geckodriver 0.18.0
+1530113071809	geckodriver	INFO	Listening on 127.0.0.1:39641
+1530113073016	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113081381	Marionette	INFO	Listening on port 33165
+1530113081470	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22192, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113098392	geckodriver	INFO	geckodriver 0.18.0
+1530113098399	geckodriver	INFO	Listening on 127.0.0.1:55449
+1530113099606	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113105437	Marionette	INFO	Listening on port 38661
+1530113105531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113136468	geckodriver	INFO	geckodriver 0.18.0
+1530113136485	geckodriver	INFO	Listening on 127.0.0.1:52513
+1530113137687	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113145428	Marionette	INFO	Listening on port 46121
+1530113145518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113166749	geckodriver	INFO	geckodriver 0.18.0
+1530113166766	geckodriver	INFO	Listening on 127.0.0.1:51211
+1530113167962	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113175511	Marionette	INFO	Listening on port 40329
+1530113175598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113190956	geckodriver	INFO	geckodriver 0.18.0
+1530113190962	geckodriver	INFO	Listening on 127.0.0.1:36521
+1530113192166	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113198668	Marionette	INFO	Listening on port 40761
+1530113198709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113216515	geckodriver	INFO	geckodriver 0.18.0
+1530113216528	geckodriver	INFO	Listening on 127.0.0.1:45803
+1530113217732	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113222282	Marionette	INFO	Listening on port 41247
+1530113222356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113234144	geckodriver	INFO	geckodriver 0.18.0
+1530113234154	geckodriver	INFO	Listening on 127.0.0.1:58023
+1530113235357	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113240247	Marionette	INFO	Listening on port 42111
+1530113240296	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23180, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113256981	geckodriver	INFO	geckodriver 0.18.0
+1530113256988	geckodriver	INFO	Listening on 127.0.0.1:40101
+1530113258190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113264215	Marionette	INFO	Listening on port 39865
+1530113264334	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23347, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23347, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113280796	geckodriver	INFO	geckodriver 0.18.0
+1530113280803	geckodriver	INFO	Listening on 127.0.0.1:46743
+1530113282013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113287306	Marionette	INFO	Listening on port 35523
+1530113287339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113305771	geckodriver	INFO	geckodriver 0.18.0
+1530113305789	geckodriver	INFO	Listening on 127.0.0.1:37135
+1530113307194	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113313079	Marionette	INFO	Listening on port 46471
+1530113313183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113325674	geckodriver	INFO	geckodriver 0.18.0
+1530113325686	geckodriver	INFO	Listening on 127.0.0.1:47391
+1530113326884	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113332419	Marionette	INFO	Listening on port 37101
+1530113332510	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23835, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113346723	geckodriver	INFO	geckodriver 0.18.0
+1530113346737	geckodriver	INFO	Listening on 127.0.0.1:58233
+1530113348126	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113353600	Marionette	INFO	Listening on port 35743
+1530113353655	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23993, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113370077	geckodriver	INFO	geckodriver 0.18.0
+1530113370087	geckodriver	INFO	Listening on 127.0.0.1:44465
+1530113371294	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113376824	Marionette	INFO	Listening on port 40105
+1530113376922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113394515	geckodriver	INFO	geckodriver 0.18.0
+1530113394524	geckodriver	INFO	Listening on 127.0.0.1:47619
+1530113395725	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113401114	Marionette	INFO	Listening on port 45313
+1530113401170	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24322, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24322, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113422834	geckodriver	INFO	geckodriver 0.18.0
+1530113422839	geckodriver	INFO	Listening on 127.0.0.1:55733
+1530113424049	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113432097	Marionette	INFO	Listening on port 38427
+1530113432180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113472197	geckodriver	INFO	geckodriver 0.18.0
+1530113472207	geckodriver	INFO	Listening on 127.0.0.1:33081
+1530113473412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113478251	Marionette	INFO	Listening on port 41433
+1530113478337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113494917	geckodriver	INFO	geckodriver 0.18.0
+1530113494931	geckodriver	INFO	Listening on 127.0.0.1:37125
+1530113496132	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113502018	Marionette	INFO	Listening on port 34115
+1530113502075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113531349	geckodriver	INFO	geckodriver 0.18.0
+1530113531360	geckodriver	INFO	Listening on 127.0.0.1:35919
+1530113532555	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113537885	Marionette	INFO	Listening on port 42051
+1530113537983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113552563	geckodriver	INFO	geckodriver 0.18.0
+1530113552575	geckodriver	INFO	Listening on 127.0.0.1:54131
+1530113553774	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113558294	Marionette	INFO	Listening on port 34223
+1530113558396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113570362	geckodriver	INFO	geckodriver 0.18.0
+1530113570376	geckodriver	INFO	Listening on 127.0.0.1:42227
+1530113571570	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113578187	Marionette	INFO	Listening on port 40477
+1530113578208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113596584	geckodriver	INFO	geckodriver 0.18.0
+1530113596599	geckodriver	INFO	Listening on 127.0.0.1:42107
+1530113597794	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113602732	Marionette	INFO	Listening on port 46149
+1530113602816	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25488, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113618809	geckodriver	INFO	geckodriver 0.18.0
+1530113618822	geckodriver	INFO	Listening on 127.0.0.1:37945
+1530113620020	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113624780	Marionette	INFO	Listening on port 33903
+1530113624853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530113643638	geckodriver	INFO	geckodriver 0.18.0
+1530113643649	geckodriver	INFO	Listening on 127.0.0.1:52133
+1530113644863	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113649577	Marionette	INFO	Listening on port 45789
+1530113649597	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25817, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530113664624	geckodriver	INFO	geckodriver 0.18.0
+1530113664633	geckodriver	INFO	Listening on 127.0.0.1:35543
+1530113665820	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530113674516	Marionette	INFO	Listening on port 34653
+1530113674563	Marionette	WARN	TLS certificate errors will be ignored for this session
